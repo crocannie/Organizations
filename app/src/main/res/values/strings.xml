@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Organisations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_org_detail">OrgDetailActivity</string>
+    <string name="title_activity_org_add">OrgAddActivity</string>
+</resources>
